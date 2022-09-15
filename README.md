@@ -15,4 +15,4 @@ The MAE metric on the test set should not be more than 8.
 - Model = Sequential , backbone = ResNet50, optimizer = Adam
 
 ### Results:
-- Test MAE: 7.1773
+- Test MAE: 7.18
